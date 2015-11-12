@@ -1,5 +1,5 @@
 {
-  "name": "entities",
+  "name": "entities-mod",
   "version": "1.1.1",
   "description": "Encode & decode XML/HTML entities with ease",
   "author": "Felix Boehm <me@feedic.com>",
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/fb55/entities.git"
+    "url": "git://github.com/puppywang/entities.git"
   },
   "license": "BSD-2-Clause",
   "jshintConfig": {
@@ -50,5 +50,9 @@
       "describe": true,
       "it": true
     }
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/puppywang/entities/issues"
+  },
+  "homepage": "https://github.com/puppywang/entities"
 }
